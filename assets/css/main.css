@@ -3344,8 +3344,6 @@ border-radius: 100px;
   font-size: 20px; 
 }
 
-/* .analyze-card{
-  background-color: #32bfc9;
-
-} */
-
+.feature-header{
+  background-color:  color-mix(in srgb, #3fb2ba,transparent 65%);
+}
